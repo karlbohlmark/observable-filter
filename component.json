@@ -1,0 +1,9 @@
+{
+    "name": "observable-filter",
+    "version": "0.0.1",
+    "repo": "karlbohlmark/observable-filter",
+    "dependencies": {
+        "component/emitter": "*"
+    },
+    "scripts": ["index.js"]
+}
